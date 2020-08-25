@@ -15,9 +15,10 @@ namespace ConsoleApp1
             set { cambiar = value; }
         }
 
-        private void Pepe() { 
-        cambiar="pepe";
-            }
+        private void Pepe()
+        {
+            cambiar = "pepe";
+        }
 
 
     }
