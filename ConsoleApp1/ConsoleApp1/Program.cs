@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("pp");
             Console.ReadKey();
+            Console.WriteLine("un golazo");
         }
     }
 }
