@@ -8,8 +8,8 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        private string cambiar;
-        public string MyProperty
+        private int cambiar;
+        public int Cambiar
         {
             get { return cambiar; }
             set { cambiar = value; }
